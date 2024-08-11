@@ -1,5 +1,4 @@
 # LLM-Application-Development-using-Langchain
 
 
-Chains
-Prompt
+Try and implement Langchain fearures.
